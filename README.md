@@ -1,4 +1,4 @@
-# I’m Pradnya Karwade,
+# Hi I’m Pradnya Karwade,
 A data-driven Power BI Consultant with 5+ years of experience transforming complex data into clear, actionable dashboards. This portfolio highlights my work in data visualization, ETL pipeline automation, and semantic modeling using tools like Power BI, Python, SQL, Azure, and Snowflake.
 
 ### Education
